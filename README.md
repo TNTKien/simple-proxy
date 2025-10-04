@@ -9,7 +9,7 @@ https://your-worker.your-subdomain.workers.dev?url=<TARGET_URL>
 ### Examples
 
 ```
-https://simple-proxy.your-subdomain.workers.dev?url=https://api.mangadex.org/manga?limit=10
+https://test-proxy.iamneyk.workers.dev/?url=https://api.mangadex.org/manga?limit=100
 ```
 
 ## Deploy to Cloudflare Workers
