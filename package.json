@@ -1,0 +1,15 @@
+{
+  "name": "simple-proxy",
+  "version": "1.0.0",
+  "description": "A simple proxy service",
+  "main": "worker.js",
+  "scripts": {
+    "deploy": "wrangler deploy"
+  },
+  "keywords": ["cloudflare", "workers", "proxy"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}
